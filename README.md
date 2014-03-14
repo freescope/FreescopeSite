@@ -1,2 +1,2 @@
-# freescope
-### a Sails application
+# Freescope Public Site
+####"Billions and billions."
