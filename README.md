@@ -1,0 +1,2 @@
+# freescope
+### a Sails application
